@@ -1,5 +1,5 @@
 <?php
 
-echo "Git first class";
+echo "Git first";
 
 ?>
